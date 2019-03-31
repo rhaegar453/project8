@@ -1,0 +1,13 @@
+.itemSpacing{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.iconSpacing{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
